@@ -4,7 +4,7 @@ This repository contains the **4D_Corner_Component_List** component.
 
 ## Overview
 
-This component is part of the 4D ecosystem and follows a set of guidelines to ensure consistency, usability, and discoverability within the community.
+To ensure consistency, usability, and better visibility within the 4D community, please follow the guidelines below.
 
 ## Requirements
 
