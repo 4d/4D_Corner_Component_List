@@ -1,0 +1,13 @@
+[
+  {"title": "4D QPDF", "repository": "https://github.com/4d/4D-QPDF"},
+  {"title": "4D Info Report", "repository": "https://github.com/4d/4D_Info_Report"},
+  {"title": "4D AIKit", "repository": "https://github.com/4d/4D-AIKit"},
+  {"title": "4D Labels", "repository": "https://github.com/4d/4D-labels"},
+  {"title": "4D NetKit", "repository": "https://github.com/4d/4D-NetKit"},
+  {"title": "4D Progress", "repository": "https://github.com/4d/4D-progress"},
+  {"title": "4D Report", "repository": "https://github.com/4d/4D-report"},
+  {"title": "4D SVG", "repository": "https://github.com/4d/4D-SVG"},
+  {"title": "4D ViewPro", "repository": "https://github.com/4d/4D-ViewPro/"},
+  {"title": "4D Widgets", "repository": "https://github.com/4d/4D-widgets"},
+  {"title": "4D WritePro Interface", "repository": "https://github.com/4d/4D-WritePro-Interface"}
+]
