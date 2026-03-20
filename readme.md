@@ -20,13 +20,22 @@ The component must include a **valid icon embedded within the component**.
 
 The repository must include a **clear and meaningful description**.
 
-This description should explain:
-- What the component does
-- Its purpose
-- Its main use cases or features
-
-A good description improves discoverability and helps other developers quickly understand the component.
+This description should explain what the component does.
 
 ### GitHub Topic
 
-The repository must include the following topic: 4d-component
+The repository must include the following topic: **4d-component**.
+
+This tag is required for proper indexing and allows the community to easily find 4D components.
+
+## Checklist
+
+Before publishing, make sure:
+
+- [ ] A valid icon is included in the component  
+- [ ] A clear GitHub description is provided  
+- [ ] The `4d-component` topic is added  
+
+## Contributing
+
+Please ensure that any contribution respects these guidelines.
