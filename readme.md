@@ -2,6 +2,14 @@
 
 This repository contains the **4D_Corner_Component_List** component.
 
+## Checklist
+
+Before publishing, make sure:
+
+- [ ] A valid icon is included in the component  
+- [ ] A clear GitHub description is provided  
+- [ ] The `4d-component` topic is added  
+
 ## Overview
 
 To ensure consistency, usability, and better visibility within the 4D community, please follow the guidelines below.
@@ -27,14 +35,6 @@ This description should explain what the component does.
 The repository must include the following topic: **4d-component**.
 
 This tag is required for proper indexing and allows the community to easily find 4D components.
-
-## Checklist
-
-Before publishing, make sure:
-
-- [ ] A valid icon is included in the component  
-- [ ] A clear GitHub description is provided  
-- [ ] The `4d-component` topic is added  
 
 ## Contributing
 
