@@ -9,6 +9,8 @@ Before publishing, make sure:
 - [ ] A valid icon is included in the component  
 - [ ] A clear GitHub description is provided  
 - [ ] The `4d-component` topic is added  
+- [ ] A license is defined in the repository  
+- [ ] A README file explains how to use the component  
 
 ## Overview
 
@@ -81,6 +83,23 @@ This description should explain what the component does.
 The repository must include the following topic: **4d-component**.
 
 This tag is required for proper indexing and allows the community to easily find 4D components.
+
+### License
+
+The repository must include a license.
+
+A license file must be present (e.g. MIT, Apache 2.0, etc.)
+The license should be clearly defined in the GitHub repository
+This ensures that others understand how the component can be used and shared
+
+### Usage Documentation
+
+The repository must include a README file explaining how to use the component.
+
+Provide clear installation steps
+Include basic usage examples
+Describe key features and entry points
+This helps other developers quickly understand and adopt the component
 
 ## Contributing
 
