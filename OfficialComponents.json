@@ -48,10 +48,6 @@
     "repository": "https://github.com/vdelachaux/4DPop"
   },
   {
-    "title": "4DPop AppMaker",
-    "repository": "https://github.com/vdelachaux/4DPop-AppMaker"
-  },
-  {
     "title": "4DPop Macros",
     "repository": "https://github.com/vdelachaux/4DPop-Macros"
   },
@@ -64,44 +60,8 @@
     "repository": "https://github.com/vdelachaux/4DPop-Bookmarks"
   },
   {
-    "title": "4DPop ColorChart",
-    "repository": "https://github.com/vdelachaux/4DPop-ColorChart"
-  },
-  {
-    "title": "4DPop Commands",
-    "repository": "https://github.com/vdelachaux/4DPop-Commands"
-  },
-  {
     "title": "4DPop KeepIt",
     "repository": "https://github.com/vdelachaux/4DPop-KeepIt"
-  },
-  {
-    "title": "4DPop Pasteboard",
-    "repository": "https://github.com/vdelachaux/4DPop-Pasteboard"
-  },
-  {
-    "title": "4DPop Rulers",
-    "repository": "https://github.com/vdelachaux/4DPop-Rulers"
-  },
-  {
-    "title": "4DPop sqlSchemas",
-    "repository": "https://github.com/vdelachaux/4DPop-sqlSchemas"
-  },
-  {
-    "title": "4DPop Window",
-    "repository": "https://github.com/vdelachaux/4DPop-Window"
-  },
-  {
-    "title": "4DPop XLIFF Pro",
-    "repository": "https://github.com/vdelachaux/4DPop-XLIFF-Pro"
-  },
-  {
-    "title": "4DPop Constants Editor",
-    "repository": "https://github.com/vdelachaux/4DPop-Constants-Editor"
-  },
-  {
-    "title": "4DPop Image Buddy",
-    "repository": "https://github.com/vdelachaux/4DPop-Image-Buddy"
   },
   {
     "title": "4DPop Git",
