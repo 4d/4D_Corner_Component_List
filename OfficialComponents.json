@@ -68,6 +68,10 @@
     "repository": "https://github.com/vdelachaux/4DPop-Git"
   },
   {
+    "title": "4D cURL",
+    "repository": "https://github.com/miyako/curl"
+  },
+  {
     "title": "4D PHP",
     "repository": "https://github.com/miyako/php"
   },
