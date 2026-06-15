@@ -68,14 +68,18 @@
     "repository": "https://github.com/vdelachaux/4DPop-Git"
   },
   {
+    "title": "4D PHP",
+    "repository": "https://github.com/miyako/php"
+  },
+  {
     "title": "4D ONNX Runtime GenAI",
     "repository": "https://github.com/miyako/onnx-genai"
   },
-  }
+  {
     "title": "xls-rs for 4D",
     "repository": "https://github.com/miyako/xls-rs"
   },
-  }
+  {
     "title": "ppt-rs for 4D",
     "repository": "https://github.com/miyako/ppt-rs"
   }
