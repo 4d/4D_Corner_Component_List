@@ -66,11 +66,7 @@ The JSON defines the metadata for a 4D component. It must include the following 
 
 ### Icon
 
-The component must include a **valid icon embedded within the component**.
-
-- The icon should be properly configured
-- It must display correctly in the 4D environment
-- It helps users quickly identify the component
+The icon file must be named logo.svg or logo.png and must be located either in the Resources folder or in the root directory of the component. To appear in the 4D Corner, icons must be listed in the “Code” section on GitHub.
 
 ### GitHub Description
 
