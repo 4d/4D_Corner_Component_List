@@ -70,5 +70,9 @@
   {
     "title": "xls-rs for 4D",
     "repository": "https://github.com/miyako/xls-rs"
+  },
+  }
+    "title": "ppt-rs for 4D",
+    "repository": "https://github.com/miyako/ppt-rs"
   }
 ]
