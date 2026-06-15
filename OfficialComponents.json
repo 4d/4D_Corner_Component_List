@@ -66,5 +66,9 @@
   {
     "title": "4DPop Git",
     "repository": "https://github.com/vdelachaux/4DPop-Git"
+  },
+  {
+    "title": "4D cURL",
+    "repository": "https://github.com/miyako/curl"
   }
 ]
