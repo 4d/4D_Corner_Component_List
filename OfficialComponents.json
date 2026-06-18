@@ -90,5 +90,17 @@
   {
     "title": "ppt-rs for 4D",
     "repository": "https://github.com/miyako/ppt-rs"
+  },
+  {
+    "title": "UI with Classes",
+    "repository": "https://github.com/vdelachaux/UI-with-Classes"
+  },
+  {
+    "title": "Color with Classes",
+    "repository": "https://github.com/vdelachaux/Color-with-Classes"
+  },
+  {
+    "title": "SVG with Classes",
+    "repository": "https://github.com/vdelachaux/SVG-with-Classes"
   }
 ]
