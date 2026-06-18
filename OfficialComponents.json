@@ -90,5 +90,10 @@
   {
     "title": "ppt-rs for 4D",
     "repository": "https://github.com/miyako/ppt-rs"
+  },
+  {
+    "title": "4D CTranslate2",
+    "repository": "https://github.com/miyako/CTranslate2",
+    "path_logo": "https://raw.githubusercontent.com/miyako/CTranslate2/refs/heads/main/CTranslate2/Resources/logo.png"
   }
 ]
