@@ -69,31 +69,33 @@
   },
   {
     "title": "4D LLaMA C++",
-    "repository": "https://github.com/miyako/llama-cpp"
+    "repository": "https://github.com/miyako/llama-cpp",
+    "path_logo": "https://raw.githubusercontent.com/miyako/llama-cpp/refs/heads/main/llama-cpp/Resources/logo.png"
   },  
   {
     "title": "4D cURL",
-    "repository": "https://github.com/miyako/curl"
+    "repository": "https://github.com/miyako/curl",
+    "path_logo": "https://raw.githubusercontent.com/miyako/curl/refs/heads/main/curl/Resources/logo.png"
   },
   {
     "title": "4D PHP",
-    "repository": "https://github.com/miyako/php"
+    "repository": "https://github.com/miyako/php",
+    "path_logo": "https://raw.githubusercontent.com/miyako/php/refs/heads/main/php/Resources/logo.png"
   },
   {
     "title": "4D ONNX Runtime GenAI",
-    "repository": "https://github.com/miyako/onnx-genai"
+    "repository": "https://github.com/miyako/onnx-genai",
+    "path_logo": "https://raw.githubusercontent.com/miyako/onnx-genai/refs/heads/main/onnx-genai/Resources/logo.png"
   },
   {
     "title": "xls-rs for 4D",
-    "repository": "https://github.com/miyako/xls-rs"
+    "repository": "https://github.com/miyako/xls-rs",
+    "path_logo": "https://raw.githubusercontent.com/miyako/xls-rs/refs/heads/main/xls-rs/Resources/logo.png"
+    
   },
   {
     "title": "ppt-rs for 4D",
-    "repository": "https://github.com/miyako/ppt-rs"
-  },
-  {
-    "title": "4D CTranslate2",
-    "repository": "https://github.com/miyako/CTranslate2",
-    "path_logo": "https://raw.githubusercontent.com/miyako/CTranslate2/refs/heads/main/CTranslate2/Resources/logo.png"
+    "repository": "https://github.com/miyako/ppt-rs",
+    "path_logo": "https://raw.githubusercontent.com/miyako/ppt-rs/refs/heads/main/ppt-rs/Resources/logo.png"
   }
 ]
