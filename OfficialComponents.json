@@ -92,15 +92,8 @@
     "repository": "https://github.com/miyako/ppt-rs"
   },
   {
-    "title": "UI with Classes",
-    "repository": "https://github.com/vdelachaux/UI-with-Classes"
-  },
-  {
-    "title": "Color with Classes",
-    "repository": "https://github.com/vdelachaux/Color-with-Classes"
-  },
-  {
-    "title": "SVG with Classes",
-    "repository": "https://github.com/vdelachaux/SVG-with-Classes"
+    "title": "4D CTranslate2",
+    "repository": "https://github.com/miyako/CTranslate2",
+    "path_logo": "https://raw.githubusercontent.com/miyako/CTranslate2/refs/heads/main/CTranslate2/Resources/logo.png"
   }
 ]
