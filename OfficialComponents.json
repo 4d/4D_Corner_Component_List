@@ -68,6 +68,10 @@
     "repository": "https://github.com/vdelachaux/4DPop-Git"
   },
   {
+    "title": "4DPop Window",
+    "repository": "https://github.com/vdelachaux/4DPop-Window"
+  },
+  {
     "title": "4D LLaMA C++",
     "repository": "https://github.com/miyako/llama-cpp",
     "path_logo": "https://raw.githubusercontent.com/miyako/llama-cpp/refs/heads/main/llama-cpp/Resources/logo.png"
