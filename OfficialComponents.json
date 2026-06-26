@@ -99,50 +99,62 @@
 	},
 	{
 		"title": "waz_Wazar – UI, Unified",
-		"repository": "https://github.com/protee/waz_Wazar"
+		"repository": "https://github.com/protee/waz_Wazar",
+		"path_logo": "https://www.protee.org/images/waz_Wazar/waz_Wazar.png"
 	},
 	{
 		"title": "wmd_tinyMD – Material Design",
-		"repository": "https://github.com/protee/wmd_tinyMD"
+		"repository": "https://github.com/protee/wmd_tinyMD",
+		"path_logo": "https://www.protee.org/images/wmd_tinyMD/wmd_tinyMD.png"
 	},
 	{
 		"title": "wob_Boxes – The Universal Container",
-		"repository": "https://github.com/protee/wob_Boxes"
+		"repository": "https://github.com/protee/wob_Boxes",
+		"path_logo": "https://www.protee.org/images/wob_Boxes/wob_Boxes.png"
 	},
 	{
 		"title": "woc_Colours – Colours, Reloaded",
-		"repository": "https://github.com/protee/woc_Colours"
+		"repository": "https://github.com/protee/woc_Colours",
+		"path_logo": "https://www.protee.org/images/woc_Colours/woc_Colours.png"
 	},
 	{
 		"title": "wod_DevTools – The Artisan's Chisel",
-		"repository": "https://github.com/protee/wod_DevTools"
+		"repository": "https://github.com/protee/wod_DevTools",
+		"path_logo": "https://www.protee.org/images/wod_DevTools/wod_DevTools.png"
 	},
 	{
 		"title": "wok_Krolific – Licensing, Simplified",
-		"repository": "https://github.com/protee/wok_Krolific"
+		"repository": "https://github.com/protee/wok_Krolific",
+		"path_logo": "https://www.protee.org/images/wok_Krolific/wok_Krolific.png"
 	},
 	{
 		"title": "wom_Make – The Genesis Engine",
-		"repository": "https://github.com/protee/wom_Make"
+		"repository": "https://github.com/protee/wom_Make",
+		"path_logo": "https://www.protee.org/images/wom_Make/wom_Make.png"
 	},
 	{
 		"title": "wor_Recursive – The Infinite, Tamed",
-		"repository": "https://github.com/protee/wor_Recursive"
+		"repository": "https://github.com/protee/wor_Recursive",
+		"path_logo": "https://www.protee.org/images/wor_Recursive/wor_Recursive.png"
 	},
 	{
 		"title": "wos_SvgWidgets – Draw your verses",
-		"repository": "https://github.com/protee/wos_SvgWidgets"
+		"repository": "https://github.com/protee/wos_SvgWidgets",
+		"path_logo": "https://www.protee.org/images/wos_SvgWidgets/wos_SvgWidgets.png"
 	},
 	{
 		"title": "wox_Xlibrary – The Silent Engine",
-		"repository": "https://github.com/protee/wox_Xlibrary"
+		"repository": "https://github.com/protee/wox_Xlibrary",
+		"path_logo": "https://www.protee.org/images/wox_Xlibrary/wox_Xlibrary.png"
 	},
 	{
 		"title": "wqr_QuickReport – A 4D legacy fork",
-		"repository": "https://github.com/protee/wqr_QuickReport"
+		"repository": "https://github.com/protee/wqr_QuickReport",
+		"path_logo": "https://www.protee.org/images/wqr_QuickReport/wqr_QuickReport.png"
 	},
 	{
 		"title": "zen_Nucleus – The Final Verse",
-		"repository": "https://github.com/protee/zen_Nucleus"
+		"repository": "https://github.com/protee/zen_Nucleus",
+		"path_logo": "https://www.protee.org/images/zen_Nucleus/zen_Nucleus.png"
 	}
 ]
