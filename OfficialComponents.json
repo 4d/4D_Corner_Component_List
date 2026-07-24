@@ -90,5 +90,10 @@
   {
     "title": "ppt-rs for 4D",
     "repository": "https://github.com/miyako/ppt-rs"
+  },
+  {
+    "title": "Fulgur for 4D",
+    "repository": "https://github.com/miyako/fulgur",
+    "path_logo": "https://raw.githubusercontent.com/miyako/fulgur/refs/heads/main/fulgur/Resources/logo.png"
   }
 ]
