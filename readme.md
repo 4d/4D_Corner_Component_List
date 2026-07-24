@@ -10,7 +10,9 @@ Before publishing, make sure:
 - [ ] A clear GitHub description is provided  
 - [ ] The `4d-component` topic is added  
 - [ ] A license is defined in the repository  
-- [ ] A README file explains how to use the component  
+- [ ] A README file explains how to use the component
+- [ ] The component is packaged as a ZIP file and added to a GitHub Release  
+- [ ] Semantic versioning is used (majorVersion.minorVersion.patchNumber)  
 
 ## Overview
 
@@ -96,6 +98,36 @@ Provide clear installation steps
 Include basic usage examples
 Describe key features and entry points
 This helps other developers quickly understand and adopt the component
+
+## GitHub Package Requirements
+
+To enable direct integration of your component from GitHub into 4D projects (via the Component Manager), your repository must contain a properly packaged release.
+
+### Package Structure
+
+1. **Compress your component into ZIP format**
+   - Create a ZIP archive containing your component files
+   - Name the archive **exactly the same as your repository name**
+   - Example: If your repository is named `myComponent`, the ZIP must be named `myComponent.zip`
+
+2. **Integrate the ZIP into a GitHub Release**
+   - Create a release in your repository
+   - Upload the ZIP file as a release asset
+   - Specify a tag and version number for the release
+
+### Versioning
+
+Use **Semantic Versioning** (majorVersion.minorVersion.patchNumber) for your releases:
+- Example: `1.2.3`
+- You can also use tags: e.g., `v1.0.0`, `stable`, etc.
+
+### Automation
+
+This process can be automated using **4D code or GitHub Actions** to ensure consistent and efficient component distribution.
+
+### Reference
+
+For more details, refer to the [4D Blog: Integrate 4D Components Directly from GitHub](https://blog.4d.com/integrate-4d-components-directly-from-github/)
 
 ## Contributing
 

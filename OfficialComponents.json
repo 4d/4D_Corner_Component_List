@@ -1,99 +1,181 @@
 [
-  {
-    "title": "4D QPDF",
-    "repository": "https://github.com/4d/4D-QPDF"
-  },
-  {
-    "title": "4D Info Report",
-    "repository": "https://github.com/4d/4D_Info_Report"
-  },
-  {
-    "title": "4D AIKit",
-    "repository": "https://github.com/4d/4D-AIKit"
-  },
-  {
-    "title": "4D Labels",
-    "repository": "https://github.com/4d/4D-labels"
-  },
-  {
-    "title": "4D NetKit",
-    "repository": "https://github.com/4d/4D-NetKit"
-  },
-  {
-    "title": "4D Progress",
-    "repository": "https://github.com/4d/4D-progress"
-  },
-  {
-    "title": "4D Report",
-    "repository": "https://github.com/4d/4D-report"
-  },
-  {
-    "title": "4D SVG",
-    "repository": "https://github.com/4d/4D-SVG"
-  },
-  {
-    "title": "4D ViewPro",
-    "repository": "https://github.com/4d/4D-ViewPro/"
-  },
-  {
-    "title": "4D Widgets",
-    "repository": "https://github.com/4d/4D-widgets"
-  },
-  {
-    "title": "4D WritePro Interface",
-    "repository": "https://github.com/4d/4D-WritePro-Interface"
-  },
-  {
-    "title": "4DPop",
-    "repository": "https://github.com/vdelachaux/4DPop"
-  },
-  {
-    "title": "4DPop Macros",
-    "repository": "https://github.com/vdelachaux/4DPop-Macros"
-  },
-  {
-    "title": "4DPop QuickOpen",
-    "repository": "https://github.com/vdelachaux/4DPop-QuickOpen"
-  },
-  {
-    "title": "4DPop Bookmarks",
-    "repository": "https://github.com/vdelachaux/4DPop-Bookmarks"
-  },
-  {
-    "title": "4DPop KeepIt",
-    "repository": "https://github.com/vdelachaux/4DPop-KeepIt"
-  },
-  {
-    "title": "4DPop Git",
-    "repository": "https://github.com/vdelachaux/4DPop-Git"
-  },
-  {
-    "title": "4D LLaMA C++",
-    "repository": "https://github.com/miyako/llama-cpp"
-  },  
-  {
-    "title": "4D cURL",
-    "repository": "https://github.com/miyako/curl"
-  },
-  {
-    "title": "4D PHP",
-    "repository": "https://github.com/miyako/php"
-  },
-  {
-    "title": "4D ONNX Runtime GenAI",
-    "repository": "https://github.com/miyako/onnx-genai"
-  },
-  {
-    "title": "xls-rs for 4D",
-    "repository": "https://github.com/miyako/xls-rs"
-  },
-  {
-    "title": "ppt-rs for 4D",
-    "repository": "https://github.com/miyako/ppt-rs"
-  },
-  {
-    "title": "Fulgur for 4D",
-    "repository": "https://github.com/miyako/fulgur",
-    "path_logo": "https://raw.githubusercontent.com/miyako/fulgur/refs/heads/main/fulgur/Resources/logo.png"
-  }
+{
+"title": "4D QPDF",
+"repository": "https://github.com/4d/4D-QPDF"
+},
+{
+"title": "4D Info Report",
+"repository": "https://github.com/4d/4D_Info_Report"
+},
+{
+"title": "4D AIKit",
+"repository": "https://github.com/4d/4D-AIKit"
+},
+{
+"title": "4D Labels",
+"repository": "https://github.com/4d/4D-labels"
+},
+{
+"title": "4D NetKit",
+"repository": "https://github.com/4d/4D-NetKit"
+},
+{
+"title": "4D Progress",
+"repository": "https://github.com/4d/4D-progress"
+},
+{
+"title": "4D Report",
+"repository": "https://github.com/4d/4D-report"
+},
+{
+"title": "4D SVG",
+"repository": "https://github.com/4d/4D-SVG"
+},
+{
+"title": "4D ViewPro",
+"repository": "https://github.com/4d/4D-ViewPro/"
+},
+{
+"title": "4D Widgets",
+"repository": "https://github.com/4d/4D-widgets"
+},
+{
+"title": "4D WritePro Interface",
+"repository": "https://github.com/4d/4D-WritePro-Interface"
+},
+{
+"title": "4DPop",
+"repository": "https://github.com/vdelachaux/4DPop"
+},
+{
+"title": "4DPop Macros",
+"repository": "https://github.com/vdelachaux/4DPop-Macros"
+},
+{
+"title": "4DPop QuickOpen",
+"repository": "https://github.com/vdelachaux/4DPop-QuickOpen"
+},
+{
+"title": "4DPop Bookmarks",
+"repository": "https://github.com/vdelachaux/4DPop-Bookmarks"
+},
+{
+"title": "4DPop KeepIt",
+"repository": "https://github.com/vdelachaux/4DPop-KeepIt"
+},
+{
+"title": "4DPop Git",
+"repository": "https://github.com/vdelachaux/4DPop-Git"
+},
+{
+"title": "4DPop Window",
+"repository": "https://github.com/vdelachaux/4DPop-Window"
+},
+{
+"title": "4D LLaMA C++",
+"repository": "https://github.com/miyako/llama-cpp",
+"path_logo": "https://raw.githubusercontent.com/miyako/llama-cpp/refs/heads/main/llama-cpp/Resources/logo.png"
+},
+{
+"title": "4D cURL",
+"repository": "https://github.com/miyako/curl",
+"path_logo": "https://raw.githubusercontent.com/miyako/curl/refs/heads/main/curl/Resources/logo.png"
+},
+{
+"title": "4D PHP",
+"repository": "https://github.com/miyako/php",
+"path_logo": "https://raw.githubusercontent.com/miyako/php/refs/heads/main/php/Resources/logo.png"
+},
+{
+"title": "4D ONNX Runtime GenAI",
+"repository": "https://github.com/miyako/onnx-genai",
+"path_logo": "https://raw.githubusercontent.com/miyako/onnx-genai/refs/heads/main/onnx-genai/Resources/logo.png"
+},
+{
+"title": "xls-rs for 4D",
+"repository": "https://github.com/miyako/xls-rs",
+"path_logo": "https://raw.githubusercontent.com/miyako/xls-rs/refs/heads/main/xls-rs/Resources/logo.png"
+},
+{
+"title": "ppt-rs for 4D",
+"repository": "https://github.com/miyako/ppt-rs",
+"path_logo": "https://raw.githubusercontent.com/miyako/ppt-rs/refs/heads/main/ppt-rs/Resources/logo.png"
+},
+{
+"title": "waz_Wazar – UI, Unified",
+"repository": "https://github.com/protee/waz_Wazar",
+"path_logo": "https://www.protee.org/images/waz_Wazar/waz_Wazar.png"
+},
+{
+"title": "wmd_tinyMD – Material Design",
+"repository": "https://github.com/protee/wmd_tinyMD",
+"path_logo": "https://www.protee.org/images/wmd_tinyMD/wmd_tinyMD.png"
+},
+{
+"title": "wob_Boxes – The Universal Container",
+"repository": "https://github.com/protee/wob_Boxes",
+"path_logo": "https://www.protee.org/images/wob_Boxes/wob_Boxes.png"
+},
+{
+"title": "woc_Colours – Colours, Reloaded",
+"repository": "https://github.com/protee/woc_Colours",
+"path_logo": "https://www.protee.org/images/woc_Colours/woc_Colours.png"
+},
+{
+"title": "wod_DevTools – The Artisan's Chisel",
+"repository": "https://github.com/protee/wod_DevTools",
+"path_logo": "https://www.protee.org/images/wod_DevTools/wod_DevTools.png"
+},
+{
+"title": "wok_Krolific – Licensing, Simplified",
+"repository": "https://github.com/protee/wok_Krolific",
+"path_logo": "https://www.protee.org/images/wok_Krolific/wok_Krolific.png"
+},
+{
+"title": "wom_Make – The Genesis Engine",
+"repository": "https://github.com/protee/wom_Make",
+"path_logo": "https://www.protee.org/images/wom_Make/wom_Make.png"
+},
+{
+"title": "wor_Recursive – The Infinite, Tamed",
+"repository": "https://github.com/protee/wor_Recursive",
+"path_logo": "https://www.protee.org/images/wor_Recursive/wor_Recursive.png"
+},
+{
+"title": "wos_SvgWidgets – Draw your verses",
+"repository": "https://github.com/protee/wos_SvgWidgets",
+"path_logo": "https://www.protee.org/images/wos_SvgWidgets/wos_SvgWidgets.png"
+},
+{
+"title": "wox_Xlibrary – The Silent Engine",
+"repository": "https://github.com/protee/wox_Xlibrary",
+"path_logo": "https://www.protee.org/images/wox_Xlibrary/wox_Xlibrary.png"
+},
+{
+"title": "wqr_QuickReport – A 4D legacy fork",
+"repository": "https://github.com/protee/wqr_QuickReport",
+"path_logo": "https://www.protee.org/images/wqr_QuickReport/wqr_QuickReport.png"
+},
+{
+"title": "zen_Nucleus – The Final Verse",
+"repository": "https://github.com/protee/zen_Nucleus",
+"path_logo": "https://www.protee.org/images/zen_Nucleus/zen_Nucleus.png"
+},
+{
+"title": "UI with Classes",
+"repository": "https://github.com/vdelachaux/UI-with-Classes"
+},
+{
+"title": "Color with Classes",
+"repository": "https://github.com/vdelachaux/Color-with-Classes"
+},
+{
+"title": "SVG with Classes",
+"repository": "https://github.com/vdelachaux/SVG-with-Classes"
+},
+{
+"title": "Fulgur for 4D",
+"repository": "https://github.com/miyako/fulgur",
+"path_logo": "https://raw.githubusercontent.com/miyako/fulgur/refs/heads/main/fulgur/Resources/logo.png"
+} 
 ]
