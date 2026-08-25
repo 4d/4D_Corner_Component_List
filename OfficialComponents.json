@@ -172,5 +172,10 @@
 {
 "title": "SVG with Classes",
 "repository": "https://github.com/vdelachaux/SVG-with-Classes"
+},
+{
+"title": "4D OxiBonsai",
+"repository": "https://github.com/miyako/oxibonsai",
+"path_logo": "https://raw.githubusercontent.com/miyako/oxibonsai/refs/heads/main/oxibonsai/Resources/icon.png"
 }
 ]
