@@ -177,5 +177,10 @@
 "title": "Fulgur for 4D",
 "repository": "https://github.com/miyako/fulgur",
 "path_logo": "https://raw.githubusercontent.com/miyako/fulgur/refs/heads/main/fulgur/Resources/logo.png"
-} 
+},
+{
+"title": "4D OxiBonsai",
+"repository": "https://github.com/miyako/oxibonsai",
+"path_logo": "https://raw.githubusercontent.com/miyako/oxibonsai/refs/heads/main/oxibonsai/Resources/icon.png"
+}
 ]
