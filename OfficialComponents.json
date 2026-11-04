@@ -44,6 +44,10 @@
 "repository": "https://github.com/4d/4D-WritePro-Interface"
 },
 {
+"title": "4D Embedding Studio",
+"repository": "https://github.com/4d/4D-Embedding-Studio"
+},
+{
 "title": "4DPop",
 "repository": "https://github.com/vdelachaux/4DPop"
 },
