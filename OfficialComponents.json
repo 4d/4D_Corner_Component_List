@@ -182,5 +182,20 @@
 "title": "4D OxiBonsai",
 "repository": "https://github.com/miyako/oxibonsai",
 "path_logo": "https://raw.githubusercontent.com/miyako/oxibonsai/refs/heads/main/oxibonsai/Resources/icon.png"
+},
+{
+"title": "Ai00 for 4D",
+"repository": "https://github.com/miyako/ai00",
+"path_logo": "https://raw.githubusercontent.com/miyako/ai00/refs/heads/main/Ai00/Resources/logo.png"
+},
+{
+"title": "Swama for 4D",
+"repository": "https://github.com/miyako/swama",
+"path_logo": "https://raw.githubusercontent.com/miyako/swama/refs/heads/main/swama/Resources/logo.png"
+},
+{
+"title": "Uzu for 4D",
+"repository": "https://github.com/miyako/uzu",
+"path_logo": "https://raw.githubusercontent.com/miyako/uzu/refs/heads/main/uzu/Resources/logo.png"
 }
 ]
