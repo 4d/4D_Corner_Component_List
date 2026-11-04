@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "4D Corner component list",
+  "description": "Grammar of OfficialComponents.json. See readme.md for the guidelines.",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "required": ["title", "repository"],
+    "additionalProperties": false,
+    "properties": {
+      "title": {
+        "description": "The name of the component.",
+        "type": "string",
+        "pattern": "^\\S(.*\\S)?$"
+      },
+      "repository": {
+        "description": "The URL of the component's repository, typically on GitHub.",
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://\\S+$"
+      },
+      "path_logo": {
+        "description": "Direct URL to the logo file, if it is not in the root or Resources folder.",
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://\\S+\\.(svg|png)$"
+      }
+    }
+  }
+}
