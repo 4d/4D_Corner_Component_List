@@ -182,5 +182,21 @@
 "title": "4D OxiBonsai",
 "repository": "https://github.com/miyako/oxibonsai",
 "path_logo": "https://raw.githubusercontent.com/miyako/oxibonsai/refs/heads/main/oxibonsai/Resources/icon.png"
+},
+{
+"title": "pdfdistill pdfcpu",
+"repository": "https://github.com/miyako/pdfdistill-pdfcpu",
+"path_logo": "https://raw.githubusercontent.com/miyako/pdfdistill-pdfcpu/refs/heads/main/pdfdistill-pdfcpu/Resources/logo.png"
+},
+{
+"title": "pdfdistill qpdf",
+"repository": "https://github.com/miyako/pdfdistill-qpdf",
+"path_logo": "https://raw.githubusercontent.com/miyako/pdfdistill-qpdf/refs/heads/main/pdfdistill-qpdf/Resources/logo.png"
+},
+{
+"title": "pdfdistill lopdf",
+"repository": "https://github.com/miyako/pdfdistill-lopdf",
+"path_logo": "https://raw.githubusercontent.com/miyako/pdfdistill-lopdf/refs/heads/main/pdfdistill-lopdf/Resources/logo.png"
 }
+
 ]
