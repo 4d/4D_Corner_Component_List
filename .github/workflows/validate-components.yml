@@ -1,0 +1,22 @@
+name: Validate component list
+
+on:
+  pull_request:
+    paths:
+      - OfficialComponents.json
+  push:
+    branches:
+      - main
+    paths:
+      - OfficialComponents.json
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check OfficialComponents.json against the schema
+        run: pipx run check-jsonschema==0.39.0 --schemafile .github/OfficialComponents.schema.json OfficialComponents.json
