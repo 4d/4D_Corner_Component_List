@@ -44,6 +44,10 @@
 "repository": "https://github.com/4d/4D-WritePro-Interface"
 },
 {
+"title": "4D Embedding Studio",
+"repository": "https://github.com/4d/4D-Embedding-Studio"
+},
+{
 "title": "4DPop",
 "repository": "https://github.com/vdelachaux/4DPop"
 },
@@ -197,5 +201,21 @@
 "title": "Uzu for 4D",
 "repository": "https://github.com/miyako/uzu",
 "path_logo": "https://raw.githubusercontent.com/miyako/uzu/refs/heads/main/uzu/Resources/logo.png"
+},
+{
+"title": "pdfdistill pdfcpu",
+"repository": "https://github.com/miyako/pdfdistill-pdfcpu",
+"path_logo": "https://raw.githubusercontent.com/miyako/pdfdistill-pdfcpu/refs/heads/main/pdfdistill-pdfcpu/Resources/logo.png"
+},
+{
+"title": "pdfdistill qpdf",
+"repository": "https://github.com/miyako/pdfdistill-qpdf",
+"path_logo": "https://raw.githubusercontent.com/miyako/pdfdistill-qpdf/refs/heads/main/pdfdistill-qpdf/Resources/logo.png"
+},
+{
+"title": "pdfdistill lopdf",
+"repository": "https://github.com/miyako/pdfdistill-lopdf",
+"path_logo": "https://raw.githubusercontent.com/miyako/pdfdistill-lopdf/refs/heads/main/pdfdistill-lopdf/Resources/logo.png"
 }
+
 ]
