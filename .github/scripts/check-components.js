@@ -123,7 +123,11 @@ module.exports = async ({ github, context, core }) => {
   }
 
   // Detects new or modified entries (keyed by repository URL) and duplicates
-  const baseMap = new Map((base.list || []).map((e) => [keyOf(e?.repository), JSON.stringify(e)]));
+  if (base.error) {
+    core.setFailed(`Could not load base ${FILE}: ${base.error}`);
+    return;
+  }
+  const baseMap = new Map(base.list.map((e) => [keyOf(e?.repository), JSON.stringify(e)]));
   const seen = new Map();
   const duplicates = [];
   for (const e of head.list) {
