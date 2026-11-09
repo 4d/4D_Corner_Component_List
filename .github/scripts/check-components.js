@@ -5,7 +5,7 @@ module.exports = async ({ github, context, core }) => {
   const README_URL = 'https://github.com/4d/4D_Corner_Component_List#requirements';
   const REQUIRED_TOPIC = '4d-component';
   const GITHUB_REPO_RE = /^https:\/\/github\.com\/([A-Za-z0-9_.-]+)\/([A-Za-z0-9_.-]+?)(?:\.git)?\/?$/i;
-  const SEMVER_RE = /^v?\d+\.\d+\.\d+$/;
+  const SEMVER_RE = /^v?(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)(?:-(?:0|[1-9]\d*|\d*[A-Za-z-][0-9A-Za-z-]*)(?:\.(?:0|[1-9]\d*|\d*[A-Za-z-][0-9A-Za-z-]*))*)?(?:\+[0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*)?$/;
   const ICON_RE = /^(?:logo|(?:.*\/)?Resources\/logo)\.(?:svg|png)$/i;
   const NUMBERS = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'];
 
