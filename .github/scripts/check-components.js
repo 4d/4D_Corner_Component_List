@@ -82,8 +82,8 @@ module.exports = async ({ github, context, core }) => {
     // path_logo takes precedence; otherwise look for logo.svg/png at the root or in a Resources folder
     if (r.logoUrl) {
       try {
-        let res = await fetch(r.logoUrl, { method: 'HEAD', redirect: 'follow' });
-        if (!res.ok) res = await fetch(r.logoUrl, { redirect: 'follow' });
+        let res = await fetch(r.logoUrl, { method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(10000) });
+        if (!res.ok) res = await fetch(r.logoUrl, { redirect: 'follow', signal: AbortSignal.timeout(10000) });
         r.logoOk = res.ok;
       } catch {
         r.logoOk = false;
