@@ -11,7 +11,7 @@ module.exports = async ({ github, context, core }) => {
 
   const pr = context.payload.pull_request;
   const ok = (v) => (v ? '✅' : '❌');
-  const keyOf = (url) => (typeof url === 'string' ? url.trim().toLowerCase().replace(/\.git$/, '').replace(/\/+$/, '') : '');
+  const keyOf = (url) => (typeof url === 'string' ? url.trim().toLowerCase().replace(/\/+$/, '').replace(/\.git$/, '') : '');
 
   // Reads and parses the JSON file at a given ref (content is treated as data only)
   const loadList = async (owner, repo, ref) => {
