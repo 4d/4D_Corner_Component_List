@@ -231,5 +231,15 @@
 "title": "Printer Queue Monitor",
 "repository": "https://github.com/miyako/spooler-monitor",
 "path_logo": "https://raw.githubusercontent.com/miyako/spooler-monitor/refs/heads/main/component/spooler-monitor/Resources/logo.png"
+},
+{
+"title": "QuickDraw PICT Converter",
+"repository": "https://github.com/miyako/quickdraw",
+"path_logo": "https://raw.githubusercontent.com/miyako/quickdraw/refs/heads/main/component/quickdraw/Resources/logo.png"
+},
+{
+"title": "OpenID",
+"repository": "https://github.com/miyako/openid",
+"path_logo": "https://raw.githubusercontent.com/miyako/openid/refs/heads/main/component/openid/Resources/logo.png"
 }
 ]
